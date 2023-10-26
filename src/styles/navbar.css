@@ -1,0 +1,27 @@
+nav {
+    position: fixed;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    z-index: 999;
+    filter: drop-shadow(0px 2.9825618267059326px 7.456404209136963px rgba(0, 0, 0, 0.10));
+    padding: 20px 35px;
+}
+
+.navbar-link {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.navbar-link a {
+    color: #333;
+    font-weight: 400;
+}
+
+.navbar-link a:hover {
+    color: #FF5A5F;
+}
