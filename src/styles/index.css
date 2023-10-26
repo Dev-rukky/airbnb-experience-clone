@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  transition: all 5s ease;
+  transition: all .5s ease;
   list-style: none;
   text-decoration: none;
   font-family: 'Gabarito', sans-serif;
